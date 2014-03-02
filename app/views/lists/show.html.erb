@@ -8,5 +8,11 @@
   <%= @list.text %>
 </p>
 
-<%= link_to 'Back', lists_path %>
-| <%= link_to 'Edit', edit_list_path(@list) %>
+<h2>Steps</h2>
+<%= render @list.steps %>
+
+<h2>Add a step:</h2>
+<%= render "steps/form" %>
+
+<%= link_to 'Back to Lists', lists_path %>
+| <%= link_to 'Edit Lists', edit_list_path(@list) %>

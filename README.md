@@ -5,8 +5,6 @@ A 'how-to' application that provides steps for completing a simple task.
 
 This is a basic how-to application built using Rails 4.0.2 and utilizing nested resources.
 
-Current features include . . .
-
 ### Author:  Doug MacDowell
 
 ### Installation
@@ -15,15 +13,11 @@ TBD - *This is a work in progress for a Rails programming class.*
 
 ## Usage
 
-TBD
+Click the links to navigate around the application. Submit and view tasks and the associated steps.
 
-### Link to screenshot of passing tests:
+### Link to screenshot showing a list and associated steps:
 
-TBD
-
-### Link to screenshot of index page showing stuff:
-
-TBD
+https://www.dropbox.com/s/zlfye7e7hf1rvki/HowToList_example_%202014-03-02%2010%3A23%3A49.png
 
 ### Contributing
 
